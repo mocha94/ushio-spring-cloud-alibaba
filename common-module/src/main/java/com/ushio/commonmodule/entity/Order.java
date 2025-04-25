@@ -6,6 +6,8 @@ public class Order {
 
     private String productionName;
 
+    private String boot;
+
     public String getId() {
         return id;
     }
