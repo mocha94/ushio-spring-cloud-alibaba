@@ -8,6 +8,8 @@ public class Order {
 
     private String boot;
 
+    private String brand;
+
     public String getId() {
         return id;
     }
